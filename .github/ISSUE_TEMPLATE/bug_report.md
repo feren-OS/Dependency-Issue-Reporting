@@ -1,5 +1,5 @@
 ---
-name: Bug report
+name: Report a Dependency Issue
 about: Create a report to help fix a dependency issue
 title: ''
 labels: BUG
